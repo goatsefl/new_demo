@@ -1,3 +1,4 @@
 # new_demo
-just for the purpose of using clone
-Adding changes for the purpose of cloning
+There are better changes in this version.
+Also, cloning was successful.
+More tidy, much wow.
