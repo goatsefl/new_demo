@@ -1,0 +1,3 @@
+# Pushing Easy
+
+Pushing using "git push", instead of "git push origin main"
